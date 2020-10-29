@@ -1,0 +1,6 @@
+framework module Pods_Luigi {
+  umbrella header "Pods-Luigi-umbrella.h"
+
+  export *
+  module * { export * }
+}
